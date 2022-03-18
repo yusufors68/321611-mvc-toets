@@ -56,11 +56,11 @@ foreach ($data['users'] as $country){
       <text-center> <table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">id</th>
+      <th scope="col">Id</th>
       <th scope="col">Land</th>
-      <th scope="col">hoofdstad</th>
-      <th scope="col">continent</th>
-      <th scope="col">aantalbewoners</th>
+      <th scope="col">Hoofdstad</th>
+      <th scope="col">Continent</th>
+      <th scope="col">Aantalbewoners</th>
     </tr>
   </thead>
   <?php
